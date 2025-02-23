@@ -31,7 +31,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/josecontilde/josecontilde/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/josecontilde/output/snake.svg" alt="Snake animation" />
 
 ###
 
